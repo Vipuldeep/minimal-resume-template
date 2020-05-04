@@ -309,6 +309,8 @@ li .line {
   font-weight: 600;
   color: #04143A;
 }
+
+
 li .point {
 	content: "";
 	top: -7px;
@@ -351,6 +353,12 @@ li .description {
 	font-size: 14px;
 	color: #81899C;
 	font-weight: 300;
+}
+
+.it {
+	font-size: 14px;
+	font-style: italic;
+	font-weight: normal;
 }
 
 /* ---- Hover effects ---- */
