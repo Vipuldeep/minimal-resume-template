@@ -108,8 +108,8 @@ h1.name {
 	background-color: #D9E7F8;
 	color: #4A90E2;
 	font-weight: 600;
-	margin-top: 5px;
-	margin-left: 20px;
+	margin-top: 15px;
+	margin-left: 20%;
 	border-radius: 5px;
 	display: inline-block;
 	padding: 15px 25px;
@@ -441,7 +441,7 @@ li .description {
 		font-size: 15px;
 		top: -40px;
 		right: 20px;
-		padding: 10px
+		padding: 10px;
 	}
 
 	.lead {
